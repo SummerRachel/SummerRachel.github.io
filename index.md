@@ -1,30 +1,12 @@
-## Welcome to GitHub Pages
+### Welcome
+Hello, I am Rachel Xia. This is my public github repository.
+I am an undergraduate student at the University of Edinburgh - Zhejiang University Institute. 
+I made some changes to this page and I hope it will work.
 
 You can use the [editor on GitHub](https://github.com/SummerRachel/SummerRachel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
